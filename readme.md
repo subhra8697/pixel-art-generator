@@ -1,5 +1,7 @@
 <center>
+
 # Pixel Art Generator
+
 </center>
 
 This Pixel Art Generator is a web application developed using JavaScript, HTML, and CSS. It allows users to create pixel art designs by choosing colors and filling pixels on a grid canvas. 
